@@ -53,6 +53,14 @@ Adding insulation to R-38 or higher reduces cooling load by 10-15%.
 - Reduce energy use by 30%
 - Pair with smart thermostats for maximum savings
 
+## Window Units vs Central AC: Cost Comparison
+
+Not sure whether to install window units or invest in central air? Our [detailed cost breakdown](docs/window-vs-central-ac-cost-guide.md) covers the full picture — from upfront costs to 20-year projections for South Florida homes.
+
+Key finding: Central AC reaches breakeven against window units in 3–5 years in most South Florida homes, then saves you thousands over the next decade.
+
+[Read the full guide →](docs/window-vs-central-ac-cost-guide.md)
+
 ## SEER Rating Quick Reference
 
 | SEER Rating | Efficiency | Monthly Cost* | Annual Savings vs SEER 10 |
